@@ -1,7 +1,7 @@
 %% MULTICLASS AND MULTIVARIATE CLASSIFICATION EXAMPLE
 %% Codes are written in MATLAB R2015a, please use R2015a or a later version to run this project
 
-% This project contains codes for face recognition using KNN and Naive Bayes classifiers
+% This project contains codes for face recognition/classification using KNN and Naive Bayes classifiers
 % As an example of the face data set, the publicly available AT&T Database created by AT&T Laboratories Cambridge has been used 
 % Download Link of AT&T Database: https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html
 
